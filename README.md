@@ -1,3 +1,4 @@
+If you found this repo useful, consider clicking the sponsor button near the top :) Sponsoring via GitHub is as little as $1/month and if you do not use banks or credit cards, there are crypto links included :)<br /><br />
 See This Article in It’s Original Form on dunncreativess.github.io! https://dunncreativess.github.io/2019/11/22/risk-free-futures-market-making-by-hedging-long-straddle-options/
 
 Want to See And Play With The Code? Here it Is On Github! (this repo...)
